@@ -1,0 +1,15 @@
+package myWhile;
+
+public class WhileLoop {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        int i = 1; //initialisation express
+        
+        while (i<6) { //test expression
+        	System.out.println("HELLO WORLD");
+        	
+        	i++; //update expression
+        }
+	}
+}
