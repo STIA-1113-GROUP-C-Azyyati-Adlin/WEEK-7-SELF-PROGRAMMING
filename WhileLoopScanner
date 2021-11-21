@@ -1,0 +1,22 @@
+package myWhile;
+
+import java.util.Scanner;
+
+public class WhileLoopScanner {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        Scanner sc = new Scanner (System.in);
+        int sum=0;
+        
+        System.out.println("Please Enter the any integer value below 10 : ");
+        int number = sc.nextInt();
+        
+        while (number <= 10) {
+        	sum = sum + number;
+        	number++;
+        }
+        System.out.format("Sum of the Numbers from the While Loop is : %d" , sum);
+	}
+
+}
