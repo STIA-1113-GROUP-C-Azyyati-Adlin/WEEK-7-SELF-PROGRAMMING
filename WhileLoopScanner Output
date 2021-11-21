@@ -1,0 +1,28 @@
+Output 1:
+Please Enter the any integer value below 10 : 
+1
+Sum of the Numbers from the While Loop is : 55
+
+Output 2:
+Please Enter the any integer value below 10 : 
+2
+Sum of the Numbers from the While Loop is : 54
+
+Output 3:
+Please Enter the any integer value below 10 : 
+3
+Sum of the Numbers from the While Loop is : 52
+
+.
+.
+.
+
+Output 9:
+Please Enter the any integer value below 10 : 
+9
+Sum of the Numbers from the While Loop is : 19
+
+Output 10:
+Please Enter the any integer value below 10 : 
+10
+Sum of the Numbers from the While Loop is : 10
