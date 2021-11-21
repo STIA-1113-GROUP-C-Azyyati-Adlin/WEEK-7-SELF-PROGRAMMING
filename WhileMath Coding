@@ -1,0 +1,20 @@
+package myWhile;
+
+public class WhileMath {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        int base = 3;
+        int exponent = 5;
+        
+        System.out.println("Base : " + base + " Exponent : " + exponent);
+        
+        int result = 1;
+        
+        while (exponent > 0) {
+        	result = result * base;
+        	System.out.println("The result is " +Math.pow(base, exponent));
+        	exponent--;
+        }
+	}
+}
