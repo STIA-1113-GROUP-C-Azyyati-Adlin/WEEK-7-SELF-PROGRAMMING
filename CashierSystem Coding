@@ -1,0 +1,29 @@
+package RepetitionandSelection;
+
+public class CashierSystem {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        System.out.print("\t       GEOMASTER.CO\t");
+        System.out.print("\n\t  31 Jalan Geomaster 5\t");
+        System.out.print("\n\t  Taman Geomaster Cheras\t");
+        System.out.print("\n\t    55100 Kuala Lumpur");
+        System.out.print("\n\t     Tel:012-6299675\n");
+        System.out.println("Time:2020/10/20    15:09    001#0008");
+        System.out.println("Payee:Payee01    Sale:Saler01");
+        System.out.println("Item           Qty       Price      Amount");
+        System.out.println("------------------------------------------");
+        System.out.println("Nasi Goreng     1        RM6.00     RM6.O0");
+        System.out.println("Milo Ais        1        RM2.30     RM2.30");
+        System.out.println("------------------------------------------");
+        System.out.println("Total Qty       2                         ");
+        System.out.println("Total Amount                        RM8.30");
+        System.out.println("------------------------------------------");
+        System.out.println("Cash                               RM10.00");
+        System.out.println("Change                              RM1.70");
+        System.out.println("\n\t       Welcome Again");
+        System.out.print("\tThank You For Shopping With us");
+        
+	}
+
+}
